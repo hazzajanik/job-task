@@ -5,7 +5,7 @@ import { RiBookLine } from "react-icons/ri";
 const CardA = () => {
     return (
         <div className="flex flex-col md:items-end hover:scale-[1.1] duration-500 ">
-            <div className="w-[234px] mb-[47px]  text-center">
+            <div className="w-[234px] mb-[47px]  text-center opacity-50">
                 <h1 className=" text-[#818181] font-normal text-base">
                     When course has
                 </h1>
