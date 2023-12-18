@@ -18,7 +18,7 @@ const CardA = () => {
                 <h1 className="text-base font-medium mt-[10px] px-[10px]">This is a one line title</h1>
                 <p className="text-xs font-normal px-[10px]">Two line paragraph Lorem ipsum dolor sit amet, consectetur</p>
                 <div className="flex justify-between my-[10px] px-[10px]">
-                    <p className="text-xs font-normal">$1050 <span className="relative bottom-2 bg-[#1E1E1E]"><hr /></span></p>
+                    <p className="text-xs font-normal">$1050 <span className="relative bottom-2"><hr className="h-[1px] bg-[#000000]"></hr></span></p>
                     <p className="text-xs font-normal text-[#1A9C9C]">$750</p>
                     <p className="bg-[#95E3E3] inline text-xs font-normal rounded-lg py-0 px-[10px]">You Save $250</p>
                 </div>
