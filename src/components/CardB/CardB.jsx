@@ -3,7 +3,6 @@ import { RiGroupLine } from "react-icons/ri";
 import { RiBookLine } from "react-icons/ri";
 
 const CardB = () => {
-    // hlw JavaScript Boys
     return (
         <div className="flex flex-col  md:items-center hover:scale-[1.1] duration-500">
             <div className="w-[234px] mb-[47px] mt-10 md:mt-0 text-center">
